@@ -14,8 +14,7 @@
   // ---- EDIT THIS LIST WHEN ADDING A NEW YEAR ----
   var editions = [
     { year: 2026, url: "https://thenccv.github.io/2026/" },
-    { year: 2025, url: "https://thenccv.github.io/2025/" },
-    { year: 2024, url: "https://thenccv.github.io/2024/" }
+    { year: 2025, url: "https://thenccv.github.io/2025/" }
   ];
 
   document.addEventListener("DOMContentLoaded", function () {
